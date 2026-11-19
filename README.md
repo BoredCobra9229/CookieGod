@@ -2,6 +2,9 @@
 Your ultimate guide to mastering Cookie Clicker mechanics, and minigames.
 
 
+
+
+
 #  The Garden Minigame🌱
 
 ##  Purpose:
