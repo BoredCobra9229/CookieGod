@@ -2,7 +2,7 @@
 Your ultimate guide to mastering Cookie Clicker mechanics, and minigames.
 
 
-##The Garden Minigame🌱
+##  The Garden Minigame🌱
 
 #  Purpose(s):
 The garden is considered one of the best minigames of clicker as of November, 2026
