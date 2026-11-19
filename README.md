@@ -2,13 +2,13 @@
 Your ultimate guide to mastering Cookie Clicker mechanics, and minigames.
 
 
-#The Garden Minigame🌱
+##The Garden Minigame🌱
 
-##  Purpose(s):
+#  Purpose(s):
 The garden is considered one of the best minigames of clicker as of November, 2026
 because of its massive Cps boosts and buffs.
 
-##  Mutations🧬
+#  Mutations🧬
 here is a Tree i found on google that explains the whole way to get all of the plant / seeds.
 
 
