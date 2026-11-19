@@ -25,3 +25,29 @@ Here is a Tree i found on google that explains the whole way to get all of the p
 
 
 
+<style>
+body {
+  background-color: #1c557a !important;
+  background-image: repeating-linear-gradient(
+    90deg,
+    #1c557a,
+    #1c557a 28px,
+    #164463 28px,
+    #164463 56px
+  ) !important;
+  color: #ffffff !important;
+}
+
+.markdown-body {
+  background-color: rgba(15, 23, 42, 0.88) !important;
+  padding: 32px !important;
+  border-radius: 14px !important;
+  border: 2px solid #38bdf8 !important;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: #fbbf24 !important;
+}
+</style>
