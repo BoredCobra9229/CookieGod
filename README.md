@@ -22,3 +22,6 @@ Here is a Tree i found on google that explains the whole way to get all of the p
 * **Golden Cookie Combos** (Frenzy + Click Frenzy stacking)
 * **Pantheon God Swaps** (Godzamok strategies)
 * **Ascension Milestones** (When to ascend for the first time)
+
+
+
